@@ -9,6 +9,7 @@ jsx (javascript syntax extension)
 
 # Basics to knew before using react
 high order function and arrays - foreach,filtter,sort 
+
 async js - callbacks,promises,async await
 
 # Steps to create react app
