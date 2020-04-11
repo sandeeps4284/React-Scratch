@@ -1,12 +1,13 @@
+# What is React?
 Opensource javascript library for building dunamic user interfaces
 
-## to knew basics
+# Basics to knew before using react
 
 high order function and arrays - foreach,filtter,sort 
 
 async js - callbacks,promises,async await
 
-Advantages
+# Advantages
 
 Design simple declrative views for each state
 
@@ -14,41 +15,20 @@ Virual DOM(render)
 
 jsx (javascript syntax extension)
 
-Steps
+# Steps to create react app
 
-To create react app
+Create components 
 
-create components
+Create state using hooks by constructor and render it in property
 
-manage state and properties
+Manage state and properties
 
-handle events
+Handle events
 
-work with forms
+Work with jsx and forms
 
-work with jsx
+Life cycle methods
 
-life cycle methods
+Lists and Keys
 
-fetch data from api
-
-Description
-
-Create template and render it
-
-useState hooks(latest)
-
-Create state using constructor and render it passing in property
-
-Map the items in array and return with key to item component
-
-output through item and category
-
-life cycle methods - componentwillMount()
-
-event handling
-
-create with id
-
-fetching data from api using jquery
-
+Fetch data from api
