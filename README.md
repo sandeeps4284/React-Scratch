@@ -14,11 +14,18 @@ async js - callbacks,promises,async await
 
 # Steps to create react app
 
-Create components 
+Create components
+
 Create state using hooks by constructor and render it in property
+
 Manage state and properties
+
 Handle events
+
 Work with jsx and forms
+
 Life cycle methods
+
 Lists and Keys
+
 Fetch data from api
