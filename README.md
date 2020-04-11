@@ -8,9 +8,13 @@ Virual DOM(render)
 jsx (javascript syntax extension)
 
 # Basics to knew before using react
-high order function and arrays - foreach,filtter,sort 
+Classes
 
-async js - callbacks,promises,async await
+High order array methods  
+
+Arrow functions
+
+Fetch api & promises
 
 # Steps to create react app
 
